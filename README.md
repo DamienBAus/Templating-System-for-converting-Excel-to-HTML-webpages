@@ -8,4 +8,4 @@ The JavaScript in projects.js and project_specific.js queries this .json file (u
 
 The results of this workflow can be seen on the pages projects.html and project_specific.html?project_id=FOOBAR (where FOOBAR is the ID of the project being viewed). 
 
-In order to update the website, you simply have to updated the json file, and upload it to it's relevant position. 
+In order to update the website, you simply have to updated the json file, and upload it to it's relevant position. The generation should be done offline.
